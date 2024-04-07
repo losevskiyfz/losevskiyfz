@@ -5,7 +5,7 @@
 - 📫 How to reach me - losevskiyfz@gmail.com
 - ⚡ Fun fact: Yesterday I lost my keyboard. After all it's possible
 
-Do you want to contribute with me?
+- 💼 Are you wanna contribute with me?
 
 <!---
 losevskiyfz/losevskiyfz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

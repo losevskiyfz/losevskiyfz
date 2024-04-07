@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Spring
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me - losevskiyfz@gmail.com
-- ⚡ Fun fact: I often lose my keyboards
+- ⚡ Fun fact: Yesterday I lost my keyboard. After all it's possible
 
 <!---
 losevskiyfz/losevskiyfz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java and Spring
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me - losevskiyfz@gmail.com
-- ⚡ Fun fact: Yesterday I lost my keyboard. After all it's possible
 
 - 💼 Are you wanna contribute with me?
 
